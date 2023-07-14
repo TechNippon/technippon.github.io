@@ -1,4 +1,4 @@
-| Indistinguishability Obfuscation  | 識別不能難読化 |
+| Indistinguishability Obfuscation | 識別不能難読化 |
 | ------------- | ------------- |
 | A paper titled “Indistinguishability Obfuscation From Well-Studied Assumptions” has established the feasibility of mathematically rigorous software obfuscation. The concept of “indistinguishability obfuscation” has been discussed for years, and if it could be built would be able to safeguard not only data, like traditional encryption but also the inner workings of a computer program itself. The central goal of software obfuscation is to transform source code to make it unintelligible to any third party without altering what it computes. In the future, it might not be possible to know if the software on your laptop or smartphone is running secret tasks and enabling unauthorized surveillance. Obfuscated software would resemble a locked door without a visible keyhole, securing but also obscuring the purpose of the software from the user. 
 
